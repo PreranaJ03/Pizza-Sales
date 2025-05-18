@@ -1,4 +1,4 @@
-🍕 **Pizza Sales Dashboard (Excel + SQL Validation)** </n>
+🍕 **Pizza Sales Dashboard (Excel + SQL Validation)** </br></br>
 This project demonstrates data analysis and visualization skills using Microsoft Excel and SQL. The dataset used for this project contains pizza sales data for the year 2015. It includes detailed information on orders, pizza types, sizes, prices, and timestamps.
 
 The goal of this project is to create a dynamic and insightful Excel dashboard using pivot tables, charts, and calculated metrics, and validate the key KPIs using SQL queries to ensure data accuracy and integrity.
