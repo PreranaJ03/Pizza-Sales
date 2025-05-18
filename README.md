@@ -3,7 +3,7 @@ This project demonstrates data analysis and visualization skills using Microsoft
 
 The goal of this project is to create a dynamic and insightful Excel dashboard using pivot tables, charts, and calculated metrics, and validate the key KPIs using SQL queries to ensure data accuracy and integrity.
 
-📊 _Key Performance Indicators (KPIs)_
+📊 _Key Performance Indicators (KPIs)_ </br>
 The following KPIs were calculated to summarize overall business performance:
 
 Total Revenue
@@ -16,7 +16,7 @@ Total Orders
 
 Average Pizzas Per Order
 
-📈 _Dashboard Visualizations_
+📈 _Dashboard Visualizations_ </br>
 To support strategic decision-making, several charts were included:
 
 Daily Trend for Total Orders
@@ -40,7 +40,7 @@ Identifies the most popular pizzas by volume.
 Bottom 5 Best Sellers by Total Pizzas Sold
 Highlights the least popular pizzas to explore possible improvements.
 
-🛠 _Tools Used_
+🛠 _Tools Used_ </br>
 Microsoft Excel
 
 Pivot Tables
@@ -51,8 +51,7 @@ Slicers and Timelines for interactivity
 
 Data cleaning and transformation
 
-_SQL (Validation in SSMS / Any SQL Engine)
-_
+_SQL (Validation in SSMS / Any SQL Engine)_ </br>
 Used to cross-check calculated KPIs and trends
 
 Ensured accuracy of metrics such as revenue, average order value, and total pizzas sold
